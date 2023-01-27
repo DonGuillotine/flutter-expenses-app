@@ -1,6 +1,21 @@
-# expenses
+# Expenses App.
+<p align="center">
+  <a href="https://flutter.io/">
+    <img src="https://user-images.githubusercontent.com/89584431/215066394-fae98a50-75fb-48a6-95f3-d1f64e0e3147.png" alt="Logo" height=72>
+  </a>
 
-A new Flutter project.
+  <h3 align="center">Expenses App.</h3>
+
+  <p align="center">
+    An Expenses App to manage your expenses, The app is still in the development Phase :)
+    <br>
+    Made with much  :heart:
+    <br>
+    <br>
+  </p>
+</p>
+
+Enjoy :metal:
 
 ## Getting Started
 
